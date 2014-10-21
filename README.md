@@ -1,6 +1,8 @@
 metrics-resteasy
 ================
 
+[![Build Status](https://travis-ci.org/nordinh/metrics-resteasy.svg?branch=master)](https://travis-ci.org/nordinh/metrics-resteasy)
+
 Metrics Integration for RESTEasy
 
 License
