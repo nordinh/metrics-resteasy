@@ -1,4 +1,4 @@
-package com.github.xavierbourguignon.metrics.resteasy;
+package com.github.nordinh.metrics.resteasy;
 
 import static com.codahale.metrics.MetricRegistry.name;
 import static com.google.common.collect.Maps.newHashMap;
