@@ -1,5 +1,5 @@
 language: java
 script: 
-  - 'mvn clean install'
+  - 'gradle clean build'
 jdk:
   - oraclejdk8
